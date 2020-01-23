@@ -2,3 +2,4 @@
 -repairing computers
 -spending time with family
 -learning to skills
+-excersing
