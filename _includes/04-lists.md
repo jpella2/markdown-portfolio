@@ -2,4 +2,4 @@
 - repairing computers
 - spending time with family
 - learning new skills
-- excersing
+
